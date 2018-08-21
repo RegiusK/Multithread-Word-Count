@@ -1,5 +1,5 @@
 # Multithread-Word-Count
-A JAVA Multithreaded Word Count  using Producer–consumer design pattern over a UDP client-server architecture
+A JAVA core Multithreaded Word Count  using Producer–consumer design pattern over a UDP client-server architecture
 
 1. The Server should read all files in the txt format of a directory. The server must perform word count,
 normalizing accentuation or of the letter format (uppercase or lowercase);
